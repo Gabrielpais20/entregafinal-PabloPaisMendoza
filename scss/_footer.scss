@@ -1,9 +1,9 @@
 footer {
-    color:$primary-color;
     font-size: 15px;
     padding: 5px;
     margin-bottom: 15px;
     text-align: center;
+    background-color: black;
   
     .icon {
       display: flex;
@@ -11,5 +11,9 @@ footer {
       align-items: center;
       margin: 10px;
       font-size: 30px;
+    }
+    a{
+      color: green;
+
     }
   }
